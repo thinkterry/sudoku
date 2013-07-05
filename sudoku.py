@@ -1,4 +1,4 @@
-# July 4, 2013
+# 2013
 
 import sys
 
