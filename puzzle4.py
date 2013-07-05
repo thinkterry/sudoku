@@ -1,3 +1,5 @@
+# "Sudoku 109" (three stars difficulty)
+
 3 2 - - - - 6 - 5
 - - 4 1 - - - - -
 - 8 - - 6 9 - - -

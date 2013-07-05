@@ -69,7 +69,8 @@ class Puzzle():
 
     def load(self):
         for line in open(self.filename).read().splitlines():  # per http://stackoverflow.com/a/544932
-            self.puzzle.append([Cell(value) for value in line.split(' ')])
+            if line.lstrip() and not line.lstrip().startswith('#'): # ignore blank and comment lines
+                self.puzzle.append([Cell(value) for value in line.split(' ')])
 
 
     def print_puzzle(self):
@@ -244,7 +245,6 @@ class Solver():
                 break
         
         print '----'
-        self.puzzle.is_solved()
 
         if solved:
             print 'Solved puzzle!'

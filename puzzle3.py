@@ -1,3 +1,5 @@
+# "Sudoku 47" (two stars difficulty)
+
 - - - - 2 7 - - -
 - 4 2 - 3 5 - - -
 - 8 3 6 - - 7 5 -

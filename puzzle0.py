@@ -1,3 +1,5 @@
+# "Sudoku 1" (one star difficulty)
+
 5 1 4 7 2 8 3 6 9
 6 7 8 1 9 3 4 5 2
 2 9 3 5 4 6 8 1 7

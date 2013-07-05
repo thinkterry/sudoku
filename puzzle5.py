@@ -1,3 +1,5 @@
+# "Sudoku 171" (four stars difficulty)
+
 4 - - - 8 - 3 - -
 1 - - 9 - - - - -
 - 5 - 3 - - 1 2 -
