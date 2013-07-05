@@ -5,7 +5,7 @@ A Sudoku solver
 
 ## Where the puzzles came from
 
-World of Sudoku (ISSN: 1533-1202) June, 2008, Vol. 22, by Games Publications, a division of Kappa Publishing Group, Inc.
+_World of Sudoku_ (ISSN: 1533-1202) June, 2008, Vol. 22, by Games Publications, a division of Kappa Publishing Group, Inc.
 
 * puzzle0.py - "Sudoku 1" (one star difficulty)
 * puzzle1.py - "Sudoku 1" (one star difficulty)
